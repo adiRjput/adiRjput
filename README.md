@@ -57,7 +57,7 @@ Here are the tools and technologies I love working with:
 
 ## 🐍 **Contribution Activity Snake**  
 
-![Snake Animation](https://github.com/adiRjput/adiRjput/blob/output/github-snake.svg)  
+![Snake Animation](https://github.com/adiRjput/adiRjput/blob/output/github-snake-dark.svg)  
 
 ---
 
