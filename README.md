@@ -65,7 +65,7 @@ Here are the tools and technologies I love working with:
 
 Check out this sneak peek of my work and journey so far:  
 
-![Journey GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTRrNjgyZGg0Y3ZoZ2duMDdtb2Jmc3ZucWI1aG83a3dmeHZ2eWRvbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ElPiQGynp3oAFPxij/giphy.gif)  
+![Journey GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2p1bnU3aTNqd2oxY2tscjBuY295NnM2ejYzMThqZTloZnIzYzJyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3nFnyUxzG7SScew8/giphy.gif)  
 
 ---
 
@@ -74,8 +74,8 @@ Check out this sneak peek of my work and journey so far:
 Want to collaborate or learn more about my work? Let’s connect!  
 
 - 🌐 **Website:** [FlexInfluence Media](https://example.com)  
-- 📧 **Email:** [yourname@example.com](mailto:adi.rnc@gmail.com)  
-- 📸 **Instagram:** [@aditya_creates](https://www.instagram.com/p/DBWTvuxyPaB/?next=%2Fsaynestvoices%2F)  
+- 📧 **Email:** [adi.rnc@gmail.com](mailto:adi.rnc@gmail.com)  
+- 📸 **Instagram:** [@adi_rjput](https://www.instagram.com/p/DBWTvuxyPaB/?next=%2Fsaynestvoices%2F)  
 - 🎥 **YouTube:** [Motivational Channel](https://youtube.com)  
 
 ---
