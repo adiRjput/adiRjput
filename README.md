@@ -84,6 +84,6 @@ Want to collaborate or learn more about my work? Let’s connect!
 
 ✨ I believe in empowering **ideas** that inspire, create **change**, and leave a lasting legacy. Let’s build the **future** together!  
 
-![Ending GIF]([https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY25vb3pzYnU5OWF0amlhZDhzMm1vcWJ4Ymxxc2c0Z3pwcmFqcGlxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CgRP1vA3RiULxrV9EB/giphy.gif))  
+![Ending GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY25vb3pzYnU5OWF0amlhZDhzMm1vcWJ4Ymxxc2c0Z3pwcmFqcGlxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CgRP1vA3RiULxrV9EB/giphy.gif)  
 
 ---
