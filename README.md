@@ -1,6 +1,6 @@
 # 🚀 **Aditya | Futuristic Coder, Visionary Creator & Entrepreneur**  
 
-![Welcome Banner](https://media.giphy.com/media/l0MYN0WtU9dPSQJri/giphy.gif)  
+![Welcome Banner](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2N0NG9jd3hpaGF6MjQ2Nmp6cTU1Z3p2YjZ5bzY3cnVhZ2kwYjBmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h408T6Y5GfmXBKW62l/giphy.gif)  
 
 Hello, world! 🌍 I’m **Aditya**, a **3rd-year Computer Science student**, tech enthusiast, and entrepreneur on a mission to revolutionize the way we interact with technology and creativity.  
 
