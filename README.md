@@ -65,7 +65,7 @@ Here are the tools and technologies I love working with:
 
 Check out this sneak peek of my work and journey so far:  
 
-![Journey GIF](https://media.giphy.com/media/3o6ZsYm5M5u5E5hI5K/giphy.gif)  
+![Journey GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTRrNjgyZGg0Y3ZoZ2duMDdtb2Jmc3ZucWI1aG83a3dmeHZ2eWRvbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ElPiQGynp3oAFPxij/giphy.gif)  
 
 ---
 
